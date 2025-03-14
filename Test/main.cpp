@@ -10,7 +10,7 @@
 using namespace std;
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    cout << "Hello, World!\n";
+    // insert code here...D
+    cout << "Hello, World!;
     return 0;
 }
